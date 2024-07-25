@@ -53,8 +53,6 @@ void menu(){
     cout << "Opcao: ";
 }
 
-//D:\EstruturaDeDados>ativiade1.exe instancias-numericas/instancias-num/num.100000.4.in
-
 int main(int argc, char* argv[]) {
 
     //verificar se o nome esta correto
